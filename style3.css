@@ -1,0 +1,67 @@
+@font-face {
+    font-family:Intro;
+    src: url(fonts/Intro.ttf);
+}
+body{
+   background-color: #1E0B3A; 
+
+}
+#p1{
+    font-family: Intro;
+    color: white;
+    position: absolute;
+    font-size: 64px;
+    top:370px;
+    left: 250px;
+}
+#p2{
+font-family: Intro;
+color: white;
+position: absolute;
+font-size: 64px;
+top:450px;
+left: 250px;
+}
+.circle1{
+background: linear-gradient(110.98deg, rgba(194, 70, 252, 0.25) 28.15%, rgba(95, 91, 255, 0) 124.37%);
+filter: blur(200px);
+transform: rotate(-10.52deg); 
+position: absolute;
+width: 1090.33px;
+height: 591.27px;
+left: -358px;
+top: 270px;
+}
+.circle2{
+position: absolute;
+width: 1090.33px;
+height: 591.27px;
+left: -250px;
+top: 56.03px;
+
+background: linear-gradient(110.98deg, rgba(194, 70, 252, 0.25) 28.15%, rgba(95, 91, 255, 0) 124.37%);
+filter: blur(200px);
+transform: rotate(-10.52deg);
+}
+.circle3{
+position: absolute;
+width: 584.73px;
+height: 563.74px;
+left: 1264px;
+top: 76.73px;
+
+background: linear-gradient(110.98deg, rgba(194, 70, 252, 0.25) 28.15%, rgba(95, 91, 255, 0) 124.37%);
+filter: blur(200px);
+transform: rotate(-10.52deg); 
+}
+.circle4{
+position: absolute;
+width: 303.53px;
+height: 174.53px;
+left: 872.5px;
+top: 548px;
+
+background: linear-gradient(110.98deg, rgba(194, 70, 252, 0.6) 77.91%, rgba(122, 44, 255, 0.444) 125.51%, rgba(95, 91, 255, 0.516) 174.12%);
+filter: blur(200px);
+transform: rotate(0.82deg);
+}

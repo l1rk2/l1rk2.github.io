@@ -1,0 +1,94 @@
+@font-face {
+    font-family:Intro;
+    src: url(fonts/Intro.ttf);
+  }
+body{
+    background-color: #1E0B3A;
+}
+
+#p1{
+position: absolute;
+width: 274px;
+height: 96px;
+left: 211px;
+top: 246px;
+
+font-family: Intro ;
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 48px;
+
+color: #A037C5;
+
+}
+.button{
+position: absolute;
+width: 289px;
+height: 81px;
+left: 192px;
+top: 456px;
+
+background: linear-gradient(90deg, #FB0BF1 17.55%, rgba(112, 7, 247, 0.76) 65.5%, rgba(98, 86, 238, 0.75) 100%);
+background-blend-mode: lighten;
+border-radius: 40px;
+}
+
+#p2{
+position: absolute;
+width: 252px;
+height: 24px;
+left: 211px;
+top: 460px;
+font-family: Intro ;
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 24px;
+color: #FFFFFF;
+}
+
+#img1{
+position: absolute;
+width: 500px;
+height: 300px;
+left: 723px;
+top: 244px;
+}
+#img2{
+position: absolute;
+width: 500px;
+height: 300px;
+left: 1264px;
+top: 246px;
+}
+#img3{
+position: absolute;
+width: 500px;
+height: 300px;
+left: 1004px;
+top: 599px;
+
+
+}
+.circle1{
+position: absolute;
+width: 716.13px;
+height: 906.63px;
+left: -48.49px;
+top: 101.6px;
+
+background: linear-gradient(110.98deg, rgba(194, 70, 252, 0.2) 28.15%, rgba(95, 91, 255, 0) 124.37%);
+filter: blur(200px);
+transform: rotate(-10.52deg);
+}
+.circle2{
+position: absolute;
+width: 858px;
+height: 864px;
+left: 1031px;
+top: 35px;
+
+background: linear-gradient(91.19deg, rgba(222, 31, 180, 0.276) 2.03%, rgba(74, 42, 239, 0.216) 56.66%, rgba(112, 13, 250, 0.284) 96.34%, rgba(116, 9, 252, 0) 100.98%);
+filter: blur(200px);
+}

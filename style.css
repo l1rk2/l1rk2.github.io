@@ -11,69 +11,78 @@ transition: all .3s ease;
 font-family: 'Tilt Warp', cursive;
 }
 
-#circle1{
+.circle1{
+position: absolute;
 width: 373px;
 height: 302px;
-left: -38px;
-top: 837px;
-background: rgba(250, 0, 255, 0.2);
-filter: blur(50px);
-position: absolute;
+left: 128px;
+top: 663px;
 
+background: rgba(250, 0, 255, 0.25);
+filter: blur(225px);
 }
 
-#circle2{
+.circle2{
 position: absolute;
-background: rgba(172, 0, 233, 0.1);
-filter: blur(50px);
 width: 468px;
 height: 357px;
-left: 1314px;
-top: 646px;
+left: 1301px;
+top: 629px;
+
+background: rgba(172, 0, 233, 0.2);
+filter: blur(200px);
 
 }
 
-#circle3{
+.circle3{
 position: absolute;
 width: 265px;
 height: 240px;
 left: 741px;
 top: 470px;
-background: rgba(114, 3, 255, 0.1);
-filter: blur(50px);
-}
-#circle4{
-position: absolute;
-width: 228px;
-height: 207px;
-left: 381px;
-top: 146px;
-background: linear-gradient(180deg, rgba(25, 21, 240, 0.15) 0%, rgba(82, 0, 255, 0) 100%);
-filter: blur(50px);
-}
-#circle5{
-position: absolute;
-width: 148px;
-height: 124px;
-left: 1634px;
-top: 173px;
 
-background: linear-gradient(180deg, rgba(248, 0, 208, 0.4) 0%, rgba(11, 35, 255, 0) 100%);
-filter: blur(50px);
+background: rgba(114, 3, 255, 0.3);
+filter: blur(150px);
+}
+.circle4{
+position: absolute;
+width: 294px;
+height: 257px;
+left: 252px;
+top: 138.5px;
+
+background: linear-gradient(180deg, rgba(25, 21, 240, 0.5) 0%, rgba(82, 0, 255, 0.5) 31.77%);
+filter: blur(225px);
+}
+.circle5{
+position: absolute;
+width: 468px;
+height: 357px;
+left: 973.5px;
+top: 97.5px;
+
+background: rgba(172, 0, 233, 0.2);
+filter: blur(200px);
 }
 
 .header_text{
 display: flex;
 font-family:Tilt Warp;
 justify-content: start;
-font-size: 25px;
-background: linear-gradient(270deg, #0F42F9 67.45%, rgba(129, 18, 240, 0.98) 83.29%, #FF00E5 94.6%);
+font-size: 20px;
+background: linear-gradient(90deg, #0F42F9 67.45%, rgba(129, 18, 240, 0.98) 83.29%, #FF00E5 94.6%);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 background-clip: text;
 box-sizing: border-box;
 padding-left: 330px;
 margin: 0px;
+}
+.text1{
+  background: linear-gradient( 240deg, #0F42F9 , rgba(129, 18, 240, 0.98), #ff00d9 );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 
 
@@ -82,10 +91,11 @@ margin: 0px;
 display: flex;
 justify-content: start;
 font-family:Tilt Warp;
-font-size: 25px;
+font-size: 20px;
 color: white;
 box-sizing: border-box;
 padding-left: 330px;
+
 
 }
 .main_text1{
@@ -94,7 +104,7 @@ font-family: Tilt Warp;
 display: flex;
 font-size: 50px;
 justify-content: start;
-padding-top: 120px;
+padding-top: 250px;
 box-sizing: border-box;
 padding-left: 325px;
 
@@ -107,31 +117,21 @@ font-family: Tilt Warp;
 font-size: px;
 padding-left:30px;
 box-sizing: border-box;
-padding-top: -5px;
-
-
-
 
 
 }
-.btn{
-position: absolute;
-width: 217px;
-height: 78px;
-left: 336px;
-top: 629px;
-background: linear-gradient(90deg, #FB0BF1 17.55%, rgba(112, 7, 247, 0.76) 65.5%, rgba(98, 86, 238, 0.75) 100%);
-background-blend-mode: lighten;
-border-radius: 40px;
-font-family: Tilt Warp;
-color: white;
-font-weight: 400;
-font-size: 15px;
-transition: .5s;
+
+.container{
+  box-sizing: border-box;
+  display: flex;
+  justify-content: start;
+  align-items: start;
+  padding-left: 320px;
+  padding-top: 250px;
+
 }
-.btn1{
-display: flex;
-transition: .5s;
+.button{
+display: inline-block;
 background: linear-gradient(90deg, #FB0BF1 17.55%, rgba(112, 7, 247, 0.76) 65.5%, rgba(98, 86, 238, 0.75) 100%);
 background-blend-mode: lighten;
 border-radius: 40px; 
@@ -139,56 +139,30 @@ font-family: Tilt Warp;
 color: white;
 font-weight: 400;
 font-size: 15px;
+padding: 20px 40px;
+
 }
 
-#p4{
-position: absolute;
-width: 845px;
-height: 96px;
-left: 336px;
-top: 368px;
-
-font-family: Tilt Warp;
-font-style: normal;
-font-weight: 400;
-font-size: 96px;
-line-height: 96px;
-color: white;
+.portfolio{
+display: flex;
+box-sizing: border-box;
 }
-#p5{
-position: absolute;
-width: 845px;
-height: 96px;
-left: 680px;
-top: 368px;
-
-font-family: Tilt Warp;
-font-style: normal;
-font-weight: 400;
-font-size: 96px;
-line-height: 96px;
-color: #B625FB;
+h1,h2,p{
+  margin:0;
 }
-
-#p6{
-  position: absolute;
-width: 155px;
-height: 20px;
-left: 586px;
-top: 640px;
-
+.p1{
+  display: flex;
 font-family:Tilt Warp ;
+box-sizing: border-box;
 font-style: normal;
 font-weight: 500px;
-font-size: 20px;
+font-size:20px;
 line-height: 20px;
-
-
-background: linear-gradient(90deg, #FF02F5 0%, rgba(167, 24, 255, 0.57) 57.86%, #2400FF 105.81%);
+background: linear-gradient(90deg, #FF02F5 40%, rgba(167, 24, 255, 0.57) 57.86%, #2400FF 20.81%);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 background-clip: text;
-}
-h1,h2{
-  margin:0;
+padding-left: 60px;
+padding-top: 20px;
+
 }

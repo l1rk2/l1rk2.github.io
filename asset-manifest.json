@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.737eaceb.css",
-    "main.js": "/static/js/main.6e246677.js",
+    "main.css": "/static/css/main.e9f3532c.css",
+    "main.js": "/static/js/main.1adb36d5.js",
     "static/media/pdf1.pdf": "/static/media/pdf1.d1c144e0da97d2b163e0.pdf",
     "static/media/bannerImgOne.webp": "/static/media/bannerImgOne.738aac0802c9b2e097e7.webp",
     "static/media/newArrThree.webp": "/static/media/newArrThree.b3216644b863be1688c1.webp",
@@ -11,13 +11,17 @@
     "static/media/newArrTwo.webp": "/static/media/newArrTwo.7bfecdded9740ce6b185.webp",
     "static/media/bannerImgTwo.webp": "/static/media/bannerImgTwo.d93152138c5c9da3de58.webp",
     "static/media/bannerImgThree.webp": "/static/media/bannerImgThree.cdd63ff84acf53a73a0d.webp",
+    "static/media/payment.png": "/static/media/payment.b95b27a0173c07427991.png",
     "static/media/saleImgOne.webp": "/static/media/saleImgOne.617ef5d940773f3c8a69.webp",
     "static/media/saleImgTwo.webp": "/static/media/saleImgTwo.ecb733524e878406c281.webp",
     "static/media/espson2.webp": "/static/media/espson2.94f71833f146da1e02da.webp",
     "static/media/hp3.webp": "/static/media/hp3.d3d5eea71774025281d7.webp",
     "static/media/espson1.webp": "/static/media/espson1.7aec17426d1e3ba22624.webp",
     "static/media/ricoh2.webp": "/static/media/ricoh2.ae74715f2d1318dfa53a.webp",
-    "static/media/payment.png": "/static/media/payment.3e00cc601c9e7fc1e7d3.png",
+    "static/media/bestSellerFour.webp": "/static/media/bestSellerFour.d422de9144f68ae53a30.webp",
+    "static/media/bestSellerOne.webp": "/static/media/bestSellerOne.d422de9144f68ae53a30.webp",
+    "static/media/bestSellerThree.webp": "/static/media/bestSellerThree.d422de9144f68ae53a30.webp",
+    "static/media/bestSellerTwo.webp": "/static/media/bestSellerTwo.d422de9144f68ae53a30.webp",
     "static/media/productOfTheYear.webp": "/static/media/productOfTheYear.2c30f10b51873bab4630.webp",
     "static/media/IMPRIMANTE_PANTUM_M6559N.webp": "/static/media/IMPRIMANTE_PANTUM_M6559N.dc6a220cd83486f4d55c.webp",
     "static/media/imprimante4.webp": "/static/media/imprimante4.dc6a220cd83486f4d55c.webp",
@@ -39,10 +43,6 @@
     "static/media/bac1.webp": "/static/media/bac1.5ac41bc761a96bde5fd3.webp",
     "static/media/IMPRIMANTE_PANTUM_BM5100FDW.webp": "/static/media/IMPRIMANTE_PANTUM_BM5100FDW.8595242129d43d7efbba.webp",
     "static/media/emptyCart.png": "/static/media/emptyCart.230e4848b62fb3cab325.png",
-    "static/media/bestSellerFour.webp": "/static/media/bestSellerFour.df46567d18b40f5d28fa.webp",
-    "static/media/bestSellerOne.webp": "/static/media/bestSellerOne.df46567d18b40f5d28fa.webp",
-    "static/media/bestSellerThree.webp": "/static/media/bestSellerThree.df46567d18b40f5d28fa.webp",
-    "static/media/bestSellerTwo.webp": "/static/media/bestSellerTwo.df46567d18b40f5d28fa.webp",
     "static/media/IMPRIMANTE_PANTUM_BP5100DN.webp": "/static/media/IMPRIMANTE_PANTUM_BP5100DN.9ea592af43e568f3e91e.webp",
     "static/media/imprimante2.webp": "/static/media/imprimante2.9ea592af43e568f3e91e.webp",
     "static/media/ruban1.webp": "/static/media/ruban1.0cee7dd70d7a258209b7.webp",
@@ -64,11 +64,11 @@
     "static/media/bac4.webp": "/static/media/bac4.f74120e671297fdf7aa0.webp",
     "static/media/bac3.webp": "/static/media/bac3.49f4e64670f55f8bca3f.webp",
     "index.html": "/index.html",
-    "main.737eaceb.css.map": "/static/css/main.737eaceb.css.map",
-    "main.6e246677.js.map": "/static/js/main.6e246677.js.map"
+    "main.e9f3532c.css.map": "/static/css/main.e9f3532c.css.map",
+    "main.1adb36d5.js.map": "/static/js/main.1adb36d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.737eaceb.css",
-    "static/js/main.6e246677.js"
+    "static/css/main.e9f3532c.css",
+    "static/js/main.1adb36d5.js"
   ]
 }

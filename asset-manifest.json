@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.084137bd.css",
-    "main.js": "/static/js/main.ae55d16c.js",
+    "main.js": "/static/js/main.19a78d75.js",
     "static/media/IntelPentiumGold.webp": "/static/media/IntelPentiumGold.1dd46e6dfbc7cc446d49.webp",
     "static/media/IMPRIMANTE_PANTUM_BP5100DN.webp": "/static/media/IMPRIMANTE_PANTUM_BP5100DN.8757dcb8ecb6fb1e7b21.webp",
     "static/media/pdf1.pdf": "/static/media/pdf1.d1c144e0da97d2b163e0.pdf",
@@ -92,10 +92,10 @@
     "static/media/bac3.webp": "/static/media/bac3.49f4e64670f55f8bca3f.webp",
     "index.html": "/index.html",
     "main.084137bd.css.map": "/static/css/main.084137bd.css.map",
-    "main.ae55d16c.js.map": "/static/js/main.ae55d16c.js.map"
+    "main.19a78d75.js.map": "/static/js/main.19a78d75.js.map"
   },
   "entrypoints": [
     "static/css/main.084137bd.css",
-    "static/js/main.ae55d16c.js"
+    "static/js/main.19a78d75.js"
   ]
 }

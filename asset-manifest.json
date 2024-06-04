@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e9f3532c.css",
-    "main.js": "/static/js/main.87edd9ec.js",
+    "main.css": "/static/css/main.084137bd.css",
+    "main.js": "/static/js/main.ae55d16c.js",
     "static/media/IntelPentiumGold.webp": "/static/media/IntelPentiumGold.1dd46e6dfbc7cc446d49.webp",
     "static/media/IMPRIMANTE_PANTUM_BP5100DN.webp": "/static/media/IMPRIMANTE_PANTUM_BP5100DN.8757dcb8ecb6fb1e7b21.webp",
     "static/media/pdf1.pdf": "/static/media/pdf1.d1c144e0da97d2b163e0.pdf",
@@ -29,21 +29,23 @@
     "static/media/AsusROGStrixG17G713PU.webp": "/static/media/AsusROGStrixG17G713PU.4c3b4d9d849e63b42f47.webp",
     "static/media/AsusTUFGamingA15FA506NC.webp": "/static/media/AsusTUFGamingA15FA506NC.b1e196a0ac45630a2452.webp",
     "static/media/bannerImgTwo.webp": "/static/media/bannerImgTwo.d93152138c5c9da3de58.webp",
+    "static/media/saleImgTwo.webp": "/static/media/saleImgTwo.1dc90c801410b7d4edbd.webp",
     "static/media/MSIModern14C7M.webp": "/static/media/MSIModern14C7M.e3366820132d6a91e520.webp",
     "static/media/IntelCorei313100.webp": "/static/media/IntelCorei313100.29b1788f888993b2cba7.webp",
     "static/media/bannerImgThree.webp": "/static/media/bannerImgThree.cdd63ff84acf53a73a0d.webp",
+    "static/media/saleImgThree.webp": "/static/media/saleImgThree.59472516b45700714013.webp",
     "static/media/LenovoIdeaPadGaming3.webp": "/static/media/LenovoIdeaPadGaming3.ce31eccc6dc6c645c11b.webp",
     "static/media/IntelCorei512400F.webp": "/static/media/IntelCorei512400F.ec89dd1b4f88ac6770f6.webp",
     "static/media/MSI24G2412F.webp": "/static/media/MSI24G2412F.15ea264e12c2ae49c051.webp",
     "static/media/payment.png": "/static/media/payment.b95b27a0173c07427991.png",
     "static/media/IntelCorei713700KF.webp": "/static/media/IntelCorei713700KF.53158c0ccbe4262fe31f.webp",
     "static/media/saleImgOne.webp": "/static/media/saleImgOne.617ef5d940773f3c8a69.webp",
-    "static/media/saleImgTwo.webp": "/static/media/saleImgTwo.ecb733524e878406c281.webp",
     "static/media/AMDRyzen58500G.webp": "/static/media/AMDRyzen58500G.563758fc76e6b61a997f.webp",
     "static/media/espson2.webp": "/static/media/espson2.94f71833f146da1e02da.webp",
     "static/media/hp3.webp": "/static/media/hp3.d3d5eea71774025281d7.webp",
     "static/media/espson1.webp": "/static/media/espson1.7aec17426d1e3ba22624.webp",
     "static/media/AMDRyzen77800X3D.webp": "/static/media/AMDRyzen77800X3D.44b59f7cec0c1de92e2b.webp",
+    "static/media/emptyCart.png": "/static/media/emptyCart.b81a3fa96c4218ee61af.png",
     "static/media/AMDRyzen97900.webp": "/static/media/AMDRyzen97900.e33dc1720360a8267107.webp",
     "static/media/ricoh2.webp": "/static/media/ricoh2.ae74715f2d1318dfa53a.webp",
     "static/media/bestSellerFour.webp": "/static/media/bestSellerFour.d422de9144f68ae53a30.webp",
@@ -60,7 +62,6 @@
     "static/media/imprimante1.webp": "/static/media/imprimante1.4b825706f1c18373a110.webp",
     "static/media/hp1.webp": "/static/media/hp1.9c30adc606dd6c490e56.webp",
     "static/media/hp2.webp": "/static/media/hp2.78bf66e2f945f13beb0a.webp",
-    "static/media/saleImgThree.webp": "/static/media/saleImgThree.7f55d28e41e547163b6c.webp",
     "static/media/IMPRIMANTE_PANTUM_M6609N.webp": "/static/media/IMPRIMANTE_PANTUM_M6609N.583001d552bf0bb63548.webp",
     "static/media/imprimante6.webp": "/static/media/imprimante6.583001d552bf0bb63548.webp",
     "static/media/ricoh1.webp": "/static/media/ricoh1.4d525be523f15af3a042.webp",
@@ -70,7 +71,6 @@
     "static/media/IMPRIMANTE_PANTUM_P3300DW.webp": "/static/media/IMPRIMANTE_PANTUM_P3300DW.955c783f679f474b7527.webp",
     "static/media/imprimante5.webp": "/static/media/imprimante5.955c783f679f474b7527.webp",
     "static/media/bac1.webp": "/static/media/bac1.5ac41bc761a96bde5fd3.webp",
-    "static/media/emptyCart.png": "/static/media/emptyCart.230e4848b62fb3cab325.png",
     "static/media/imprimante2.webp": "/static/media/imprimante2.9ea592af43e568f3e91e.webp",
     "static/media/ruban1.webp": "/static/media/ruban1.0cee7dd70d7a258209b7.webp",
     "static/media/IMPRIMANTE_PANTUM_P2509.webp": "/static/media/IMPRIMANTE_PANTUM_P2509.89965ecdd49bb79b85f6.webp",
@@ -91,11 +91,11 @@
     "static/media/bac4.webp": "/static/media/bac4.f74120e671297fdf7aa0.webp",
     "static/media/bac3.webp": "/static/media/bac3.49f4e64670f55f8bca3f.webp",
     "index.html": "/index.html",
-    "main.e9f3532c.css.map": "/static/css/main.e9f3532c.css.map",
-    "main.87edd9ec.js.map": "/static/js/main.87edd9ec.js.map"
+    "main.084137bd.css.map": "/static/css/main.084137bd.css.map",
+    "main.ae55d16c.js.map": "/static/js/main.ae55d16c.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9f3532c.css",
-    "static/js/main.87edd9ec.js"
+    "static/css/main.084137bd.css",
+    "static/js/main.ae55d16c.js"
   ]
 }

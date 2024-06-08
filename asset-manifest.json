@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.084137bd.css",
-    "main.js": "/static/js/main.19a78d75.js",
+    "main.css": "/static/css/main.2235c9ac.css",
+    "main.js": "/static/js/main.756dab6a.js",
     "static/media/IntelPentiumGold.webp": "/static/media/IntelPentiumGold.1dd46e6dfbc7cc446d49.webp",
     "static/media/IMPRIMANTE_PANTUM_BP5100DN.webp": "/static/media/IMPRIMANTE_PANTUM_BP5100DN.8757dcb8ecb6fb1e7b21.webp",
     "static/media/pdf1.pdf": "/static/media/pdf1.d1c144e0da97d2b163e0.pdf",
@@ -91,11 +91,11 @@
     "static/media/bac4.webp": "/static/media/bac4.f74120e671297fdf7aa0.webp",
     "static/media/bac3.webp": "/static/media/bac3.49f4e64670f55f8bca3f.webp",
     "index.html": "/index.html",
-    "main.084137bd.css.map": "/static/css/main.084137bd.css.map",
-    "main.19a78d75.js.map": "/static/js/main.19a78d75.js.map"
+    "main.2235c9ac.css.map": "/static/css/main.2235c9ac.css.map",
+    "main.756dab6a.js.map": "/static/js/main.756dab6a.js.map"
   },
   "entrypoints": [
-    "static/css/main.084137bd.css",
-    "static/js/main.19a78d75.js"
+    "static/css/main.2235c9ac.css",
+    "static/js/main.756dab6a.js"
   ]
 }
